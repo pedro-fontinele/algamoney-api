@@ -89,7 +89,7 @@ Antes de consumir a API no seu frontend, adicione o path no arquivo [CorsConfig.
 
 1. **Clone o repositório:**
    ```sh
-   git clone <https://github.com/keidsondesigner/algamoney-api.git>
+   git clone <https://github.com/pedro-fontinele/algamoney-api.git>
    cd algamoney-api
    ```
 
