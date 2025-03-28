@@ -75,7 +75,7 @@ classDiagram
 ```
 
 ## Visão Geral
-Backend desenvolvido para integração com o Frontend [Algamoney](https://github.com/pedro-fontinele/algamoney), um sistema de gerenciamento financeiro desenvolvido em Angular.
+Backend desenvolvido para integração com o Frontend [Algamoney](https://github.com/pedro-fontinele/algamoney-frontend), um sistema de gerenciamento financeiro desenvolvido em Angular.
 A API **Algamoney** é um serviço RESTful desenvolvido em **Spring Boot** para gerenciar lançamentos financeiros, categorias, pessoas e autenticação de usuários.
 
 ###
